@@ -144,4 +144,5 @@ public class Login_page extends javax.swing.JFrame {
     private javax.swing.JButton submit;
     private javax.swing.JTextField ui;
     // End of variables declaration//GEN-END:variables
+
 }
